@@ -1,0 +1,4 @@
+﻿  SumaArreglos_Paralela.cpp
+C:\Users\eclip\OneDrive\Documentos\MNA\5to Trimestre\Cloud Computing\proyectosOMP\SumaArreglos_Paralela\SumaArreglos_Paralela.cpp(23,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\eclip\OneDrive\Documentos\MNA\5to Trimestre\Cloud Computing\proyectosOMP\SumaArreglos_Paralela\SumaArreglos_Paralela.cpp(19,9): warning C4101: 'i': variable local sin referencia
+  SumaArreglos_Paralela.vcxproj -> C:\Users\eclip\OneDrive\Documentos\MNA\5to Trimestre\Cloud Computing\proyectosOMP\SumaArreglos_Paralela\x64\Debug\SumaArreglos_Paralela.exe
